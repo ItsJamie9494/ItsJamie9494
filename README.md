@@ -36,4 +36,4 @@ My name is Trevor Thalacker, and I'm a teenage computer programmer and developer
   -->
 </p>
 
-<img src="https://raw.githubusercontent.com/trevorthalacker/trevorthalacker/master/images/wave.svg" >
+<img src="https://raw.githubusercontent.com/trevorthalacker/trevorthalacker/main/images/wave.svg" >
