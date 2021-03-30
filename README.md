@@ -14,9 +14,9 @@ My name is Trevor Thalacker, and I'm a teenage computer programmer and developer
 
 ### :mailbox: How to reach me:
 
-- Website: https://trevorthalacker.me
+- Website: https://trevorthalacker.com
 
-- Email: [hello@trevorthalacker.me](mailto:hello@trevorthalacker.me)
+- Email: [hello@trevorthalacker.com](mailto:hello@trevorthalacker.com)
 
 - Twitter: [@TrevorThalacker](https://twitter.com/trevorthalacker)
 
