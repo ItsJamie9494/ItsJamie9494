@@ -22,7 +22,7 @@ My name is Trevor Thalacker, and I'm a teenage computer programmer and developer
 
 - Discord: Trevor#7688
 
-- And others (https://trevorthalacker.me/contact)
+- And others (https://trevorthalacker.com/contact)
 
 <div style="display:flex;flex-direction:row;justify-content:center;text-align:center;align-items:center;" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorthalacker&layout=compact" />
