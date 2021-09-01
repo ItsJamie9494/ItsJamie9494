@@ -2,6 +2,8 @@
 
 My name is Jamie Thalacker, and I'm a teenage computer programmer and developer that designs apps and websites.
 
+:transgender_flag: My pronouns are She/They, and I'm transfem non binary.
+
 ## :man_technologist: About Me
 
 ### :telescope: I’m currently working on
