@@ -18,7 +18,7 @@ My name is Jamie Thalacker, and I'm a teenage computer programmer and developer 
 
 ### :spiral_notepad: Blog
 
-- My blog is available at [https://trevorthalacker.com/blog](https://trevorthalacker.com/blog)
+- My blog is available at [https://jamiethalacker.dev/blog](https://jamiethalacker.dev/blog)
 
 ### :zap: Fun Facts
 
@@ -26,16 +26,16 @@ My name is Jamie Thalacker, and I'm a teenage computer programmer and developer 
 
 ### :mailbox: How to reach me:
 
-- Website: https://trevorthalacker.com
+- Website: https://jamiethalacker.dev
 
-- Email: [hello@trevorthalacker.com](mailto:hello@trevorthalacker.com)
+- Email: [hello@jamiethalacker.dev](mailto:hello@jamiethalacker.dev)
 
 - Twitter: [@JamieRThalacker](https://twitter.com/jamierthalacker)
 
 - Discord: Thalacker#9494
 
-- And others (https://trevorthalacker.com/contact)
+- And others (https://jamiethalacker.dev/contact)
 
-### :star: Learn More at https://trevorthalacker.com/about
+### :star: Learn More at https://jamiethalacker.dev/about
 
-<img src="https://raw.githubusercontent.com/trevorthalacker/trevorthalacker/main/images/wave.svg" >
+<img src="https://raw.githubusercontent.com/jamiethalacker/jamiethalacker/main/images/wave.svg" >
