@@ -2,19 +2,21 @@
 
 My name is Jamie Thalacker, and I'm a teenage computer programmer and developer that designs apps and websites.
 
-:transgender_flag: My pronouns are She/They, and I'm transfem non binary.
+:transgender_flag: My pronouns are She/They/It.
 
 ## :man_technologist: About Me
 
 ### :telescope: I’m currently working on
 
-- [Dot Browser](https://github.com/dothq)
+- [tauOS](https://github.com/tauLinux)
+- [Fivnex](https://github.com/Fivnex)
 
 ### :seedling: I’m currently learning
 
 - TypeScript
 - Rust
 - Kotlin
+- Vala
 
 ### :spiral_notepad: Blog
 
@@ -30,9 +32,9 @@ My name is Jamie Thalacker, and I'm a teenage computer programmer and developer 
 
 - Email: [hello@jamiethalacker.dev](mailto:hello@jamiethalacker.dev)
 
-- Twitter: [@JamieRThalacker](https://twitter.com/jamierthalacker)
+- Twitter: [@ItsJamie9494](https://twitter.com/ItsJamie9494)
 
-- Discord: Thalacker#9494
+- Discord: ItsJamie#9494
 
 - And others (https://jamiethalacker.dev/contact)
 
