@@ -1,6 +1,6 @@
 ## :wave: Hi There!
 
-My name is Jamie Thalacker, and I'm a teenage computer programmer and developer that designs apps and websites.
+My name is Jamie, and I'm a teenage computer programmer and developer that designs apps and websites.
 
 :transgender_flag: My pronouns are She/They/It.
 
@@ -8,7 +8,7 @@ My name is Jamie Thalacker, and I'm a teenage computer programmer and developer 
 
 ### :telescope: I’m currently working on
 
-- [tauOS](https://github.com/tauLinux)
+- [tauOS](https://github.com/tau-OS)
 - [Fivnex](https://github.com/Fivnex)
 
 ### :seedling: I’m currently learning
@@ -17,10 +17,6 @@ My name is Jamie Thalacker, and I'm a teenage computer programmer and developer 
 - Rust
 - Kotlin
 - Vala
-
-### :spiral_notepad: Blog
-
-- My blog is available at [https://jamiethalacker.dev/blog](https://jamiethalacker.dev/blog)
 
 ### :zap: Fun Facts
 
@@ -36,8 +32,8 @@ My name is Jamie Thalacker, and I'm a teenage computer programmer and developer 
 
 - Discord: ItsJamie#9494
 
-- And others (https://jamiethalacker.dev/contact)
+- And others [https://jamiethalacker.dev](https://jamiethalacker.dev/#contactLayout)
 
-### :star: Learn More at https://jamiethalacker.dev/about
+### :star: Learn More at [https://jamiethalacker.dev](https://jamiethalacker.dev/#aboutLayout)
 
 <img src="https://raw.githubusercontent.com/jamiethalacker/jamiethalacker/main/images/wave.svg" >
