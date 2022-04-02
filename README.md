@@ -9,7 +9,6 @@ My name is Jamie, and I'm a teenage computer programmer and developer that desig
 ### :telescope: I’m currently working on
 
 - [tauOS](https://github.com/tau-OS)
-- [Fivnex](https://github.com/Fivnex)
 
 ### :seedling: I’m currently learning
 
@@ -36,4 +35,4 @@ My name is Jamie, and I'm a teenage computer programmer and developer that desig
 
 ### :star: Learn More at [https://jamiethalacker.dev](https://jamiethalacker.dev/#aboutLayout)
 
-<img src="https://raw.githubusercontent.com/jamiethalacker/jamiethalacker/main/images/wave.svg" >
+<img src="https://raw.githubusercontent.com/ItsJamie9494/ItsJamie9494/main/images/wave.svg" >
