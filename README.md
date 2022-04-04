@@ -14,7 +14,8 @@ My name is Jamie, and I'm a teenage computer programmer and developer that desig
 
 - TypeScript
 - Rust
-- Kotlin
+- GTK4
+- LibAdwaita
 - Vala
 
 ### :zap: Fun Facts
